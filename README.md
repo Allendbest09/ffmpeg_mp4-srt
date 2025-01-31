@@ -1,4 +1,4 @@
-<Bold>Requirements</Bold>
+<strong>Requirements</strong>
 
 1. Operating System
 
