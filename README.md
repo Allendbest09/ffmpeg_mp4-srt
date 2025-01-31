@@ -1,4 +1,4 @@
-<strong>Requirements</strong>
+<Bold>Requirements</Bold>
 
 1. Operating System
 
@@ -37,8 +37,9 @@ Installation
 
 You can clone the repository to your local machine or simply download the sub.sh script.
 
-git clone https://github.com/yourusername/subtitle-embedding-script.git
-cd subtitle-embedding-script
+git clone https://github.com/Allendbest09/ffmpeg_mp4-srt.git
+
+cd ffmpeg_mp4-srt
 
 2. Make the script executable
 
